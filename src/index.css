@@ -1,0 +1,65 @@
+/* Main styles for main component */
+main{
+    background-color: #F0F2F5;
+    /* min-height: 37rem; */
+    /* min-height: 725px; */
+    height: 100vh;
+    
+    
+}
+
+.button1{
+    width: 100%;
+    height: 3rem;
+}
+
+.photo{
+/* width: 320px; */
+/* border: 2px solid red; */
+padding-right: 5rem;
+position: relative;
+width: auto;
+}
+
+.p-tag{
+    padding-left: 7rem;
+    font-family: inherit;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.first-h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    width: 368px;
+    height: 60px;
+    margin-left: -1.5rem;
+
+}
+.formside{
+    width: 27rem;
+    height: 24rem;
+    border-radius: 10px;
+}
+.button2{
+    font-size: 17px;
+    font-family: Helvetica,Arial, sans-serif;
+    width: 175px;
+    height: 50px;
+    font-weight: 700;
+    height: 48px;
+    border-radius: 6px;
+    background-color: #36A420;
+    border: none;
+    color: white;
+    margin-left: 5rem;
+}
+
+img{
+    width: 350px;
+    margin-left: -3.4rem;
+    
+    
+
+}
